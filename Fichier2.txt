@@ -1,1 +1,3 @@
-Ceci est le deuxième fichier de mon choix en format .txt
+﻿Ceci est le deuxième fichier de mon choix en format .txt
+
+Ce fichier pourrait decrire un projet personnel en cours en format texte
