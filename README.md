@@ -1,3 +1,3 @@
 # Activite-Git
-Mettre en pratique les notions acquises dans les deux premiÃ¨res parties sur Git et GitHub
+Mettre en pratique les notions acquises dans les deux premières parties sur Git et GitHub. \n
 Ce projet permet d'utiliser toutes les notions acquises dans le début de ce cours notamment les commandes git clone git commit et git push et autres
